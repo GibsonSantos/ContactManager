@@ -21,7 +21,8 @@ The application is containerized using Docker, which provides a consistent and i
  git clone https://github.com/GibsonSantos/ContactManager.git
 ```
 ```bash
-docker-compose up --build```
+docker-compose up --build
+```
 
 You can see the project on ```127.0.0.1:8082```
 
