@@ -18,7 +18,7 @@ The application is containerized using Docker, which provides a consistent and i
 3. Run the following command to build and start the application:
 
 ```bash
-$ git clone https://github.com/GibsonSantos/E-commerce.git
+$ git clone https://github.com/GibsonSantos/ContactManager.git
 ```
 ```bash
 docker-compose up --build
